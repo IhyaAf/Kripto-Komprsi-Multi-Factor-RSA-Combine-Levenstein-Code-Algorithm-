@@ -1,0 +1,12 @@
+c:\users\noen\documents\visual studio 2015\Projects\skripsi (Kripto - Kompresi)\skripsi (Kripto - Kompresi)\bin\Debug\skripsi (Kripto - Kompresi).exe.config
+c:\users\noen\documents\visual studio 2015\Projects\skripsi (Kripto - Kompresi)\skripsi (Kripto - Kompresi)\bin\Debug\skripsi (Kripto - Kompresi).exe
+c:\users\noen\documents\visual studio 2015\Projects\skripsi (Kripto - Kompresi)\skripsi (Kripto - Kompresi)\bin\Debug\skripsi (Kripto - Kompresi).pdb
+c:\users\noen\documents\visual studio 2015\Projects\skripsi (Kripto - Kompresi)\skripsi (Kripto - Kompresi)\obj\Debug\skripsi (Kripto - Kompresi).csprojResolveAssemblyReference.cache
+c:\users\noen\documents\visual studio 2015\Projects\skripsi (Kripto - Kompresi)\skripsi (Kripto - Kompresi)\obj\Debug\skripsi__Kripto___Kompresi_.Form1.resources
+c:\users\noen\documents\visual studio 2015\Projects\skripsi (Kripto - Kompresi)\skripsi (Kripto - Kompresi)\obj\Debug\skripsi__Kripto___Kompresi_.Properties.Resources.resources
+c:\users\noen\documents\visual studio 2015\Projects\skripsi (Kripto - Kompresi)\skripsi (Kripto - Kompresi)\obj\Debug\skripsi (Kripto - Kompresi).csproj.GenerateResource.Cache
+c:\users\noen\documents\visual studio 2015\Projects\skripsi (Kripto - Kompresi)\skripsi (Kripto - Kompresi)\obj\Debug\skripsi (Kripto - Kompresi).exe
+c:\users\noen\documents\visual studio 2015\Projects\skripsi (Kripto - Kompresi)\skripsi (Kripto - Kompresi)\obj\Debug\skripsi (Kripto - Kompresi).pdb
+c:\users\noen\documents\visual studio 2015\Projects\skripsi (Kripto - Kompresi)\skripsi (Kripto - Kompresi)\obj\Debug\skripsi__Kripto___Kompresi_.generate.resources
+C:\Users\NOEN\Documents\Visual Studio 2015\Projects\skripsi (Kripto - Kompresi)\skripsi (Kripto - Kompresi)\bin\Debug\MetroFramework.dll
+C:\Users\NOEN\Documents\Visual Studio 2015\Projects\skripsi (Kripto - Kompresi)\skripsi (Kripto - Kompresi)\bin\Debug\MetroFramework.Fonts.dll
